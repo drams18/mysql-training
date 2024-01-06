@@ -1,0 +1,1 @@
+SELECT AVG(weight) AS Moyenne FROM pokemon WHERE id IN (243, 244, 245);
